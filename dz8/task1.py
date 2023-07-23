@@ -12,7 +12,7 @@ import os
 import pickle
 from pathlib import Path
 
-PATH = Path(f'/home/ilya/Unity/Hub/Editor/2021.3.17f1/Editor/BugReporter/')
+PATH = Path(f'/home/mouz/docker/')
 
 
 def scan_directory_and_write_info(main_path, file_name='tsk'):
